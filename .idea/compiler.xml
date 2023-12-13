@@ -10,7 +10,6 @@
         <module name="Dependency-Injection-Introduction" />
         <module name="InterfaceThrough-Injection" />
         <module name="Loose-Coupling" />
-        <module name="Tight-Coupling" />
         <module name="Setter-MethodsThrough-Injection" />
       </profile>
     </annotationProcessing>
