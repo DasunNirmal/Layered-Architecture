@@ -11,6 +11,7 @@
         <module name="InterfaceThrough-Injection" />
         <module name="Loose-Coupling" />
         <module name="Setter-MethodsThrough-Injection" />
+        <module name="Tight-Coupling" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
