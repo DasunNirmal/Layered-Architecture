@@ -7,15 +7,15 @@ public class Boy implements DI {
         agreement.chat();
     }
 
+    @Override
+    public void inject(Agreement agreement) {
+        this.agreement = agreement;
+    }
+
     public static void main(String[] args) {
 
         Boy boy = new Boy();
         boy.inject(new Girl());
         boy.chatWithGirl();
-    }
-
-    @Override
-    public void inject(Agreement agreement) {
-        this.agreement = agreement;
     }
 }
