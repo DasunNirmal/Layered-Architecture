@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Property-Injection" />
         <module name="ConstructorThrough-Injection" />
+        <module name="Tight-Coupling" />
         <module name="Dependency-Injection-Introduction" />
         <module name="InterfaceThrough-Injection" />
         <module name="Loose-Coupling" />
         <module name="Setter-MethodsThrough-Injection" />
-        <module name="Tight-Coupling" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Constructorthrouh-Injection" target="11" />
+      <module name="p" target="11" />
+      <module name="Property" target="11" />
+      <module name="PropertyInjection" target="11" />
       <module name="Setter-MethodThrough-Injection" target="11" />
     </bytecodeTargetLevel>
   </component>

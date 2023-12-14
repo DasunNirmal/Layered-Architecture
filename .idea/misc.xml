@@ -12,11 +12,16 @@
         <option value="$PROJECT_DIR$/../Setter-MethodThrough-Injection/pom.xml" />
         <option value="$PROJECT_DIR$/Setter-MethodsThrough-Injection/pom.xml" />
         <option value="$PROJECT_DIR$/InterfaceThrough-Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Property/pom.xml" />
+        <option value="$PROJECT_DIR$/p/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Property-Injection/Constructorthrouh-Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Property-Injection/PropertyInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Property-Injection/p/pom.xml" />
+        <option value="$PROJECT_DIR$/p/pom.xml" />
         <option value="$PROJECT_DIR$/../Setter-MethodThrough-Injection/pom.xml" />
       </set>
     </option>
